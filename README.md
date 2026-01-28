@@ -1,4 +1,4 @@
-# Healthcare Data Analytics Project
+# 🏥Healthcare Data Analytics Project
 
 ## Tools Used
 - MySQL
